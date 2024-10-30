@@ -1,7 +1,7 @@
 🌆 City News
 Bem-vindo ao City News! Sua fonte de notícias locais com uma interface limpa e acessível, feita para quem busca informação de forma prática e direta. Este projeto é um site de notícias criado com HTML e CSS, focado em simplicidade e elegância.
 
-🔗 Acesse o site aqui: City News
+🔗 Acesse o site aqui:(https://ramonsribeiro.github.io/City_News/ )
 
 📖 Visão Geral
 O City News foi desenvolvido para trazer notícias com uma estética moderna e responsiva. Este projeto visa demonstrar uma interface de fácil navegação, priorizando a legibilidade e organização do conteúdo.
